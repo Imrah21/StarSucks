@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606067067619",
+    "project_id": "starsucks-ad0ce",
+    "storage_bucket": "starsucks-ad0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606067067619:android:4c64302c4940df0ef313d6",
+        "android_client_info": {
+          "package_name": "com.StarSucks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXROjuG9ngZ9FEBQjZVwRtx3Xx73kFcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
